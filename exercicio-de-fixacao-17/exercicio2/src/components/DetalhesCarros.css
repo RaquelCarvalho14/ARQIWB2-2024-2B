@@ -1,0 +1,12 @@
+.li{
+    list-style-type: none;
+}
+
+.negrito{
+    font-weight: bold;
+    color: rgb(6, 6, 146);
+}
+
+hr{
+    color: rgb(121, 207, 193);
+}
